@@ -7,7 +7,6 @@ public class ConcreateBuilder extends Builder{//实现了Builder接口，实现�
     @Override
     public void buildPartA() {
         //todo
-
     }
 
     @Override

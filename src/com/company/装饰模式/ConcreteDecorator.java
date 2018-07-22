@@ -15,5 +15,6 @@ public class ConcreteDecorator extends Decorator{
 
     public void addedBehavior(){
         //todo
+        System.out.print("addedBehavior");
     }
 }
